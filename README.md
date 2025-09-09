@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a computer vision engineer, currently working on segmentation for industrial purposes.<br>👯 Interested in diffusions, transformers and GANs:)
+🔭 I'm a computer vision engineer, currently working on segmentation for industrial purposes.<br>👯 Interested in diffusions, transformers and GANs:), happy to contribute in these areas as side projects
 
 
 # 💻 Tech Stack:
